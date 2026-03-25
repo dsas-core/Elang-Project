@@ -239,7 +239,7 @@ elp publish
 
 ---
 ## GrammarLicense
-[GRAMMAR.md](GRAMMAR.md)
+[Grammer.md](Grammer.md)
 
 ---
 ## License
